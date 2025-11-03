@@ -85,7 +85,7 @@
     </div>
 
     <footer class="footer">
-        <p>&copy; 2025 Instansi XYZ. All Rights Reserved.</p>
+        <p>&copy; 2025 Praktikum PGWEB-8 | M. Ivan Firmansyah</p>
     </footer>
 
     <!-- Bootstrap JS Bundle -->
